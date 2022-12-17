@@ -1,6 +1,6 @@
 For the Text Mining assignment<br>
  
-ONE:<br>
+ONE:
 1) Perform sentimental analysis on the positive-words and negative-words.
 
 TWO:<br>
